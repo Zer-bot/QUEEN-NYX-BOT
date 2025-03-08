@@ -11,11 +11,11 @@ const chalk = require('chalk')
 //owmner v card
 global.ytname = "YT: PrexzyVilla" //ur yt chanel name
 global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.location = "Indonesian" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '6281934020130' //ur owner number
+global.botname = 'AZERO' //ur bot name
+global.ownernumber = '6289662856705' //ur owner number
 global.ownername = 'manz' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
@@ -25,10 +25,10 @@ global.wm = "NYX👸"
 global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
 global.packname = "Queen Nyx👸"
 global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.creator = "6289662856705"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["6289662856705"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
